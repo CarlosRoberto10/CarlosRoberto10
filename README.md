@@ -47,7 +47,8 @@ Sou um Analista de Dados que transforma dados brutos em insights estratégicos. 
 
 ---
 
-> *"Numbers have an important story to tell. They rely on you to give them a voice." — Stephen Few*
 > *"What gets measured, gets managed." — Peter Drucker*
+>
+> *"Numbers have an important story to tell. They rely on you to give them a voice." — Stephen Few*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosRoberto10&show_icons=true&theme=dracula)
